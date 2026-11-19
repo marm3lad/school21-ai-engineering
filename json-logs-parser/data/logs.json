@@ -1,0 +1,3 @@
+{"tokens_used":400,"latency_ms":50,"error":false}
+{"tokens_used":1200,"latency_ms":80,"error":false}
+{"tokens_used":1600,"latency_ms":140,"error":true}
